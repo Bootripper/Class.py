@@ -1,3 +1,5 @@
+# Runtime inpute : Multiplication, subtraction, addition, division #
+
 F = float(input("Enter first number: "))
 S = input("Enter second number: ")
 m = float(F) * float(S)
