@@ -14,3 +14,5 @@ Task 6: Print all characters of string for loop
 Task 7: Print if number is even or odd
 
 Task 8: Print if Your should purchase a car or not
+
+Task 9: Using (if, elif, else) to print if someone get First, Second or Third Division
