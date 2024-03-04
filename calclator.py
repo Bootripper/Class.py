@@ -22,3 +22,5 @@ match x:
     case 4:
         c=a/b
         print("Division", c)
+    case _:
+        print("please choose correct option")
