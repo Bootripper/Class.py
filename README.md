@@ -26,3 +26,13 @@ Task 12: print if you'll get discount on Bill amount
 Task 13: Two number Basic Calculator
 
 Task 14: ATM 
+
+Task 15: Using "if and elif" to print if you are minor, adult or senior citizen.
+
+Task 16: Using "for loop" to print "Time Table".
+
+Task 17: Using "for loop" to print "even or odd numbers" from the range which is given.
+
+Task 18: Using "for loop" to print input number in loop.
+
+Task 19: Using "match-case statement" to print Traffic Light Simulation.
