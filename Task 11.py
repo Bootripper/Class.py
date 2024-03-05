@@ -5,4 +5,3 @@ elif input>0:
     print("Positive")
 else:
     print("Zero")
-    
