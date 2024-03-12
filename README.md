@@ -36,3 +36,5 @@ Task 17: Using "for loop" to print "even or odd numbers" from the range which is
 Task 18: Using "for loop" to print input number in loop.
 
 Task 19: Using "match-case statement" to print Traffic Light Simulation.
+
+Task 20: Usinf Def function to print even or odd numbers.
